@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab04</string>
+    <string name="cb_apple">Apple</string>
+    <string name="cb_strawberry">Strawberry</string>
+    <string name="cb_blueberry">Blueberry</string>
+    <string name="cb_potatoes">Potatoes</string>
+    <string name="btn_calculate">CALCULATE</string>
+</resources>
